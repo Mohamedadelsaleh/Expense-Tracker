@@ -15,6 +15,7 @@ export const AddTransaction = () => {
             amount:+amount,
         }
         addTransition(userTransaction);
+        // sessionStorage.setItem(`transaction-${userTransaction.id}`, JSON.stringify(userTransaction))
         setText('')
         setAmount('')
     }
