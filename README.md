@@ -2,9 +2,12 @@
 Expense Tracker using React-JS and Redux
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
 
 ## Application Info
 - An Expanse Tracking Application , You can track your balance and your income or expanse in time .
