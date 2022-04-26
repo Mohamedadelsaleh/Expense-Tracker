@@ -1,2 +1,2 @@
 # Expense-Tracker
-Expense Tracker using React-JS
+Expense Tracker using React-JS and Redux
