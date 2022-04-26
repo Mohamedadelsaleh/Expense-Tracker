@@ -25,12 +25,13 @@ Expense Tracker using React-JS and Redux
 * Author 
 * Built With
 
-# Client Side Features
+# App Features
 * You can manage Your 🉑
 * Balance
 * Income
 * Expose
 * Items
+* using Add or Delete
 
 ## Author
 
